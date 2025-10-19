@@ -20,7 +20,7 @@
     "@payloadcms/db-postgres": "3.33.0",
     "@payloadcms/live-preview-react": "^3.33.0",
     "@payloadcms/next": "3.33.0",
-    "@payloadcms/payload-cloud": "3.33.0",
+    "@payloadcms/payload-cloud": "3.60.0",
     "@payloadcms/plugin-form-builder": "3.33.0",
     "@payloadcms/plugin-nested-docs": "3.33.0",
     "@payloadcms/plugin-seo": "3.33.0",
